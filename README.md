@@ -34,6 +34,7 @@ Ask me anything **[here](https://github.com/being-yash/being-yash/issues/new)** 
 <br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=being-yash&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Mr Satyam Khanna Github Stats">
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=being-yash&layout=compact&theme=dark&bg_color=0A0A0A" alt="Mr Satyam Khanna Top Languages"/>
