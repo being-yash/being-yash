@@ -36,6 +36,7 @@ Ask me anything **[here](https://github.com/being-yash/being-yash/issues/new)** 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=being-yash&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Mr Satyam Khanna Github Stats">
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=being-yash&show_icons=true&theme=gruvbox&hide_border=true" />
 <br />
+  <img src="https://camo.githubusercontent.com/cae4f5f938a7cdbdf4d25f471d89d351f807769bbf8155d26ab9927b8514055a/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d616268696779616e747269707326637573746f6d5f7469746c653d416268696779616e25323054726970732773253230436f6e747269627574696f6e2532304772617068267468656d653d67727576626f782662675f636f6c6f723d32383238323826686964655f626f726465723d74727565266c696e653d64316130316626706f696e743d633538353435" alt="Abhigyan Trips' Activity Graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=abhigyantrips&amp;custom_title=Mr%20Satyam%20Khanna%20Trips's%20Contribution%20Graph&amp;theme=gruvbox&amp;bg_color=282828&amp;hide_border=true&amp;line=d1a01f&amp;point=c58545" style="max-width: 100%;">
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=being-yash&layout=compact&theme=dark&bg_color=0A0A0A" alt="Mr Satyam Khanna Top Languages"/>
 <br />
