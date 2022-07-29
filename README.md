@@ -99,7 +99,7 @@ Ask me anything **[here](https://github.com/being-yash/being-yash/issues/new)** 
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 Credit: [abdoachhoubi](https://github.com/abdoachhoubi)
 Last Edited on: 30/06/2022
-</div>
+</div> -->
