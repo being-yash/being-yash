@@ -29,7 +29,7 @@ I love learning new techs and using new tools. I also love drinking Tea while co
 <br />
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-Ask me anything **[here](https://github.com/being-yash/being-yash/issues/new)** or <a href="mailto:abdo.achhoubi3@gmail.com"><b>send me an email</b></a>.
+Ask me anything **[here](https://github.com/being-yash/being-yash/issues/new)** or <a href="mailto:mrsatyamkhanna@gmail.com"><b>send me an email</b></a>.
 <br />
 <br />
 
