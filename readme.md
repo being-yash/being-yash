@@ -18,10 +18,10 @@ I am passionate about building robust, scalable web applications and advancing t
 - Creative social media strategies for online businesses
 
 #### 🔗 Connect with me
-- [Instagram @mr.satyamkhanna](https://instagram.com/mr.satyamkhanna)
+- [Instagram @aka_khannaji](https://instagram.com/aka_khannaji)
 - [Facebook @mr.satyamkhanna](https://facebook.com/mr.satyamkhanna)
-- [X (Twitter) @mr.satyamkhanna](https://x.com/mr.satyamkhanna)
-- [LinkedIn @mr.satyamkhanna](https://linkedin.com/in/mr.satyamkhanna)
+- [X (Twitter) @mrsatyamkhanna](https://x.com/mrsatyamkhanna)
+- [LinkedIn @mrsatyamkhanna](https://linkedin.com/in/mrsatyamkhanna)
 
 #### 🎯 Fun Facts / Hobbies
 - Always working on new things, especially in e-commerce and Shopify apps
